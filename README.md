@@ -1,4 +1,4 @@
-# **Smart Crop recommendation system🌱.**
+# **🌱:Smart Crop recommendation system🌱.**
  
  **Enhancing crop selectivity based on assessing the conditions suitable for the crop. 
 Independent features**
@@ -12,6 +12,16 @@ Independent features**
 
 Dependent feature
 - label (crop)
+### Models and their performance Metrics
+| Metrics  | Logical_Regression | Decision Tree |
+|----------|--------------------|---------------|
+| Precision | 0.963636 |0.986111 |
+| Accuracy | 0.963636 |0.986364 |
+| F1 Score | 0.963636  |0.986364 |
+| Recall   |0.963636  |0.987287 |
+
++ Here, Decision Tree model is performing better than Logistic regression model in predicting the suitable crop. Hence, we need to proceed with Decision Tree Model.
+
 ### **Steps to run Smart Crop Recommendation System -- run a Interactive Dashboard**
 
 1. Once you download whole repository. Extract the folder `Smart_Crop_recommendation` from Zip file.
