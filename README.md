@@ -12,6 +12,13 @@ Independent features**
 
 Dependent feature
 - label (crop)
+
+![Feature_correlation_Hmap](https://github.com/user-attachments/assets/c667b006-0e37-4491-acef-de5922cd5bdb)
+
+![Logistic_regression](https://github.com/user-attachments/assets/7c8e68ed-fbf4-4ce2-ba2c-0e8b8c95075d)
+
+![Decision_tree_CM](https://github.com/user-attachments/assets/a984ea66-640d-442c-a7f1-e10193eec660)
+
 ### Models and their performance Metrics
 | Metrics  | Logical_Regression | Decision Tree |
 |----------|--------------------|---------------|
@@ -36,4 +43,5 @@ Dependent feature
    ``` bash
    !pip install streamlit
    ```
-4. An interactive Dashboard will be displayed in your default web browser. Open the web browser, monitor the input parameters and observe the suitable Crop which can be grown in those environmental conditions. 
+4. An interactive Dashboard will be displayed in your default web browser. Open the web browser, monitor the input parameters and observe the suitable Crop which can be grown in those environmental conditions.
+   
