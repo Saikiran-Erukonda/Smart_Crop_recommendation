@@ -24,6 +24,6 @@ Dependent feature
    ```
    Note : make sure you have this streamlit library in your PC. The way to install it is shown below.
    ``` bash
-   pip install streamlit
+   !pip install streamlit
    ```
 4. An interactive Dashboard will be displayed in your default web browser. Open the web browser, monitor the input parameters and observe the suitable Crop which can be grown in those environmental conditions. 
