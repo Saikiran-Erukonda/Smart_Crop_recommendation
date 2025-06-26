@@ -1,5 +1,7 @@
 # **🌱Smart Crop recommendation system.**
- 
+
+ ![Dashboard](https://github.com/user-attachments/assets/57b38ca4-8da4-4c60-b99d-3bb318dc2498)
+
  **Enhancing crop selectivity based on assessing the conditions suitable for the crop. 
 Independent features**
 - N
@@ -44,4 +46,8 @@ Dependent feature
    !pip install streamlit
    ```
 4. An interactive Dashboard will be displayed in your default web browser. Open the web browser, monitor the input parameters and observe the suitable Crop which can be grown in those environmental conditions.
-   
+
+
+https://github.com/user-attachments/assets/99ddcb1c-e4dc-484c-8986-7555b9c79a02
+
+
