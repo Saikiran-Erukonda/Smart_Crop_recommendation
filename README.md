@@ -1,4 +1,4 @@
-# **Smart Crop recommendation system.**
+# **Smart Crop recommendation system🌱.**
  
  **Enhancing crop selectivity based on assessing the conditions suitable for the crop. 
 Independent features**
