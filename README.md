@@ -12,7 +12,7 @@ Independent features
 
 Dependent feature
 - label (crop)
-### **Steps to run Smart Crop Recommendation System -- run a Interactive Dsshboard**
+### **Steps to run Smart Crop Recommendation System -- run a Interactive Dashboard**
 
 1. Once you download whole repository. Extract the folder `Smart_Crop_recommendation` from Zip file.
 
@@ -26,3 +26,4 @@ Dependent feature
    ``` bash
    pip install streamlit
    ```
+4. An interactive Dashboard will be displayed in your default web browser. Open the web browser, monitor the input parameters and observe the suitable Crop which can be grown in those environmental conditions. 
