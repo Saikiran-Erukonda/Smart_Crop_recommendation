@@ -12,3 +12,17 @@ Independent features
 
 Dependent feature
 - label (crop)
+### **Steps to run Smart Crop Recommendation System -- run a Interactive Dsshboard**
+
+1. Once you download whole repository. Extract the folder `Smart_Crop_recommendation` from Zip file.
+
+2. Open command prompt. Navigate to the above mentioned folder.
+
+3. Run below command
+   ``` bash
+   streamlit run streamlit_app.py
+   ```
+   Note : make sure you have this streamlit library in your PC. The way to install it is shown below.
+   ``` bash
+   pip install streamlit
+   ```
